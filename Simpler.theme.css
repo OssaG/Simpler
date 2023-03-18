@@ -1,0 +1,47 @@
+/**
+ * @name Simpler
+ * @author Ossa
+ * @version 1.2.1
+ * @description A simpler discord.
+ * @source https://github.com/OssaG/Simpler
+*/
+.childWrapper-1j_1ub{
+    background-color: black;
+}
+.icon-2xnN2Y{
+    transform: scale(0.7);
+    opacity: 50;;
+    }
+.icon-2xnN2Y:hover{
+        transition-duration: 500ms;
+
+    transform: scale(1);
+    opacity: 100;
+    }
+.mainContent-20q_Hp{
+    transition-duration: 500ms;
+        height: 3vh;
+        min-height: 30px;
+}
+.mainContent-20q_Hp:hover{
+    height: 4vh;
+            min-height: 50px;
+    }
+.scrollerInner-2PPAp2{
+    background-color: #0000006c;
+}
+
+.mentioned-Tre-dv{
+    background-color: rgba(255, 255, 255, 0.178);
+        transition-duration: 500ms;
+}
+.mentioned-Tre-dv:hover{
+    background-color: rgb(0, 0, 0);
+        transition-duration: 500ms;
+}
+ .icon-2W8DHg{
+         display: none;
+ }
+.mentioned-Tre-dv::before{
+    background-color: white;
+}
