@@ -5,6 +5,6 @@ Features
 - Darker main channel
 - Mention message white with black while hovering.
 
-https://github.com/OssaG/Simpler/blob/main/Simpler.png
+![alt text](https://github.com/OssaG/Simpler/blob/main/Simpler.png)
 
 Works well with themes like horizontal server list.
